@@ -1,0 +1,16 @@
+public class logiciel {
+	
+private String nomlogiciel;
+
+
+private List<machine> machine;
+
+
+
+
+public logiciel(String nomlogiciel) {
+	
+	this.nomlogiciel = nomlogiciel;
+	this.machine = null;
+}
+}
